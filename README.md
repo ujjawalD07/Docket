@@ -1,3 +1,3 @@
-# To-do-list-using-MongoDB
-This is a to-do list web application made using mongoDB and EJS templating.
+#Docket using-MongoDB
+Hi, I am docket, your online friend that lets to you keep your schedule organised and on time. 
 Feel free to clone it onto your system and contribute to it
